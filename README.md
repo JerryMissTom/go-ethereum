@@ -6,6 +6,6 @@ Ethereum Frontier Guide中文版，原地址为：https://www.gitbook.com/book/e
 
 ## 推荐
 推荐几个链接，我在研究过程中收藏的，由于花很多功夫在研读官方文档了，其他资料的搜集并不是很多。
-* [汪晓明的博客]（http://wangxiaoming.com/）
-* [巴比特电子书]（http://book.8btc.com/e_book）
-* [不是假网站]（http://me.tryblockchain.org/week20170404.html）
+* [汪晓明的博客](http://wangxiaoming.com/)
+* [巴比特电子书](http://book.8btc.com/e_book)
+* [不是假网站](http://me.tryblockchain.org/week20170404.html)
